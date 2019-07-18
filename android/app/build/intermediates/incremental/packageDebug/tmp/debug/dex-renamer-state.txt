@@ -1,0 +1,4 @@
+#Wed Mar 13 00:38:29 IST 2019
+base.0=/home/siva-m/navi/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
